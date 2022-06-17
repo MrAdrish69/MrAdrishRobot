@@ -2,8 +2,8 @@
 MIT License
 
 Copyright (C) 2017-2019, Paul Larsen
-Copyright (C) 2021 D3NVIL 
-Copyright (c) 2021, DenvilArmy, <https://github.com/Anieteam/AnieRobot>
+Copyright (C) 2022 Team Adrish
+Copyright (c) 2021, OfficialAdriah, <https://github.com/MrAdrish69/MrAdrishRobot>
 
 This file is part of @Anierobot_bot (Telegram Bot)
 
