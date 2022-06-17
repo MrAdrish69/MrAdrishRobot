@@ -1,7 +1,6 @@
 # MrAdrishRobot
 
 ![Adrish](https://te.legra.ph/file/684ce16e0205f7d9c23f7.jpg)
-# Aniebot 
 
 <p align="center";
 
